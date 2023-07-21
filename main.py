@@ -1,6 +1,9 @@
 import cv2
 import numpy as np
 
+#Todo
+#Make this program accept a image as part of the command line execution
+
 #https://stackoverflow.com/questions/56604151/how-to-extract-multiple-objects-from-an-image-using-python-opencv
 
 def howGray(imageinput):
